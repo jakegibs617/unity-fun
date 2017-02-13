@@ -101,6 +101,7 @@
      <Compile Include="Assets\OSVRUnity\src\VREye.cs" />
      <Compile Include="Assets\OSVRUnity\src\VRSurface.cs" />
      <Compile Include="Assets\OSVRUnity\src\VRViewer.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
      <None Include="Assets\Models\Environments\Panzer_II_Ausf_F\Shaders\Panzer Tracks.shader" />
